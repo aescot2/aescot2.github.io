@@ -84,8 +84,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ana Escoto-Cardenas"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Ana Escoto"
+  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Chicago, IL
   email            :
